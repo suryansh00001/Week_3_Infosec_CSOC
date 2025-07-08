@@ -31,37 +31,37 @@ Explore these common vulnerabilities:
 
 ## 🗂 Folder Structure
 
-Week_3_Infosec_CSOC/
-├── writeups/                  # Markdown-based challenge solutions
-│   ├── web_gauntlet_1.md
-│   ├── web_gauntlet_2.md
-│   ├── web_gauntlet_3.md
-│   ├── irish_name_repo1.md
-│   ├── irish_name_repo2.md
-│   ├── irish_name_repo3.md
-│   ├── Javascript_kiddie_1.md
-│   ├── Javascript_kiddie_2.md
-│   ├── JWT_Scratchpad.md
-│   ├── secrets.md
-│   ├── Client_side_Again.md
-│   ├── Intro_to_burp.md
-│   ├── Who_are_you.md
-│   └── Who_are_you2.md
-├── video_writeups/            # Git LFS-tracked video walkthroughs
-│   ├── client_side_again.mp4
-│   ├── intro_to_burp.mp4
-│   ├── irish_name_repo1.mp4
-│   ├── irish_name_repo2.mp4
-│   ├── irish_name_repo3.mp4
-│   ├── Javascript_kiddie_1+2.mp4
-│   ├── jwt_scratchpad.mp4
-│   ├── secrets.mp4
-│   ├── web-gauntlet1.mp4
-│   ├── web-gauntlet2.mp4
-│   ├── web-gauntlet3.mp4
-│   └── Who_are_you.mp4
-└── README.md                  # You're here!
-
+    Week_3_Infosec_CSOC/
+    ├── writeups/                  # Markdown-based challenge solutions
+    │   ├── web_gauntlet_1.md
+    │   ├── web_gauntlet_2.md
+    │   ├── web_gauntlet_3.md
+    │   ├── irish_name_repo1.md
+    │   ├── irish_name_repo2.md
+    │   ├── irish_name_repo3.md
+    │   ├── Javascript_kiddie_1.md
+    │   ├── Javascript_kiddie_2.md
+    │   ├── JWT_Scratchpad.md
+    │   ├── secrets.md
+    │   ├── Client_side_Again.md
+    │   ├── Intro_to_burp.md
+    │   ├── Who_are_you.md
+    │   └── Who_are_you2.md
+    ├── video_writeups/            # Git LFS-tracked video walkthroughs
+    │   ├── client_side_again.mp4
+    │   ├── intro_to_burp.mp4
+    │   ├── irish_name_repo1.mp4
+    │   ├── irish_name_repo2.mp4
+    │   ├── irish_name_repo3.mp4
+    │   ├── Javascript_kiddie_1+2.mp4
+    │   ├── jwt_scratchpad.mp4
+    │   ├── secrets.mp4
+    │   ├── web-gauntlet1.mp4
+    │   ├── web-gauntlet2.mp4
+    │   ├── web-gauntlet3.mp4
+    │   └── Who_are_you.mp4
+    └── README.md                  # You're here!
+    
 
 
 ---
